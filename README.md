@@ -15,4 +15,4 @@ My name is Ali Haider and I am a Wordpress & Shopify Developer, and I’m very p
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
-<!-- Crafted with ❤️ by Ali Haider -->
+Crafted with ❤️ by Ali Haider
