@@ -9,7 +9,7 @@ My name is Ali Haider and I am a Wordpress & Shopify Developer, and I’m very p
 * 🌍  I'm based in Karachi
 * 🖥️  See my portfolio at [Visit my Portfolio](http://thealihaider.com)
 * ✉️  You can contact me at [hyder1.work@gmail.com](mailto:hyder1.work@gmail.com)
-* 🚀  I'm currently working at [Rholab](http://rholab.net)
+* 🚀  I'm currently working on [Rholab](http://rholab.net)
 * 👥  I'm looking to collaborate on Interesting Projects
 
 <p align="left">
@@ -25,8 +25,4 @@ src="https://img.shields.io/github/followers/hyderwork?logo=github&style=for-the
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/hyderwork"><img src="https://github-readme-stats.vercel.app/api?username=hyderwork&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="hyderwork's GitHub stats" /></a>
-
 <a href="http://www.github.com/hyderwork"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hyderwork&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/hyderwork" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyderwork&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
