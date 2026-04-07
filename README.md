@@ -9,7 +9,7 @@ My name is Ali Haider and I am a Wordpress & Shopify Developer, and I’m very p
 * 🌍  I'm based in Karachi
 * 🖥️  See my portfolio at [Visit my Portfolio](http://thealihaider.com)
 * ✉️  You can contact me at [hyder1.work@gmail.com](mailto:hyder1.work@gmail.com)
-* 🚀  I'm currently working on [Rholab](http://rholab.net)
+* 🚀  I'm currently working at [Rholab](http://rholab.net)
 * 👥  I'm looking to collaborate on Interesting Projects
 
 <p align="left">
